@@ -1,0 +1,23 @@
+[
+  {
+    "id": "house",
+    "name": "House",
+    "size": [1, 1],
+    "cost": 100,
+    "demand": 1
+  },
+  {
+    "id": "solar",
+    "name": "Solar Panel",
+    "size": [1, 1],
+    "cost": 200,
+    "generation": 1
+  },
+  {
+    "id": "battery",
+    "name": "Battery",
+    "size": [1, 1],
+    "cost": 150,
+    "capacity": 5
+  }
+]
